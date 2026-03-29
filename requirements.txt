@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-openai
+langchain-google-genai
+chromadb
+beautifulsoup4
+pydantic
+python-dotenv
+crewai
+crewai[tools]
+google-generativeai
+google-cloud-aiplatform
+pyyaml
+requests
