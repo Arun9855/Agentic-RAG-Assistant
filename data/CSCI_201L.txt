@@ -1,0 +1,4 @@
+Source: https://catalogue.usc.edu/content.php?catoid=18&navoid=2135
+Title: Principles of Software Development (4 units)
+Description: Object-oriented Java programming for large-scale, concurrent application development.
+Prerequisites: CSCI 104L (C or better)

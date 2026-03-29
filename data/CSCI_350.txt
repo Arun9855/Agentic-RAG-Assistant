@@ -1,0 +1,4 @@
+Source: https://catalogue.usc.edu/content.php?catoid=18&navoid=2135
+Title: Introduction to Operating Systems (4 units)
+Description: Process management, memory management, file systems, and concurrency control.
+Prerequisites: CSCI 201L and CSCI 270

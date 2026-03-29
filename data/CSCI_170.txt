@@ -1,0 +1,4 @@
+Source: https://catalogue.usc.edu/content.php?catoid=18&navoid=2135
+Title: Discrete Methods in Computer Science (4 units)
+Description: Logic, sets, functions, complexity (Big-O), induction, and graph algorithms.
+Prerequisites: MATH 125g (Calculus I)

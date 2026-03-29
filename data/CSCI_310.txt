@@ -1,0 +1,4 @@
+Source: https://catalogue.usc.edu/content.php?catoid=18&navoid=2135
+Title: Software Engineering (4 units)
+Description: Software lifecycle models, requirements, design, testing, and team-based development.
+Prerequisites: CSCI 201L

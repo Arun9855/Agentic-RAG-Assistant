@@ -1,0 +1,8 @@
+Source: https://catalogue.usc.edu/content.php?catoid=18&navoid=2103
+Title: USC Academic Catalog: Grading System and Policies
+
+- Minimum grade for Computer Science core courses: A grade of C (2.0) or better is required for CSCI 102L, CSCI 103, CSCI 170, CSCI 104, and CSCI 201.
+- Repetition: A student can repeat a course only if the initial grade was C- or lower. A student can only repeat a core CSCI course once.
+- GPA requirement: 2.0 cumulative GPA at USC and for all upper-division major courses.
+- Course count: Students cannot take more than 18 units per term without permission.
+- Residency: At least 32 units must be completed at USC.

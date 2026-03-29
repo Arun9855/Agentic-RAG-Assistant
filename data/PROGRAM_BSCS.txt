@@ -1,0 +1,10 @@
+Source: https://catalogue.usc.edu/preview_program.php?catoid=18&poid=21667
+Title: Bachelor of Science in Computer Science: Requirements
+
+Total Units: 128 units minimum.
+Composition Requirement: WRIT 150 (4 units) and WRIT 340 (3 units).
+General Education: 24 units.
+Pre-Major: 30 units (Calculus I, II, III; Linear Algebra; Basic Science sequence - 2 courses; ENGR 102).
+CS Core Requirements: CSCI 102 (2), 103 (4), 104 (4), 170 (4), 201 (4), 270 (4), 310 (4), 350 (4), 353 (4), 356 (4), 360 (4), 401 (4) or 404 (4).
+Technical Electives: 12 units required.
+Co-requisites: Some CSCI courses require concurrent enrollment in lab sections (L) or co-requisite math courses.

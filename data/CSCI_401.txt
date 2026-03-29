@@ -1,0 +1,4 @@
+Source: https://catalogue.usc.edu/preview_program.php?catoid=18&poid=21667
+Title: Capstone: Large Software Systems (4 units)
+Description: Comprehensive design project involving advanced software engineering principles and stakeholder coordination.
+Prerequisites: Senior standing in CS (CSCI 310 and CSCI 350 recommended)
