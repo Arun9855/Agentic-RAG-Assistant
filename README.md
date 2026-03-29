@@ -30,7 +30,7 @@ A fully **Local & Agentic AI Academic Assistant** grounded in the USC Computer S
 - `chroma_db/`: Persistent local vector store.
 - `agents.py`: core logic for Agents, Tasks, and LLM orchestration.
 - `ingest.py`: RAG pipeline for document ingestion and chunking.
-- `writeup.md`: Detailed technical report on architecture and assessment criteria.
+- `eval.py`: Test 25 best Queries for system evaluation.
 
 ## ⚖️ Performance & Local Tradeoffs
 This system is optimized for **Privacy and Accuracy**. Because it runs on local hardware, reasoning takes slightly longer (~15-30s per query) compared to cloud APIs, but ensures 100% data residency and zero-cost operation.
